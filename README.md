@@ -30,3 +30,5 @@
     <p>💥 800 TL çevrimsiz sweet bonanza bonusu fırsatını kaçırmayın! Yatırım şartı olmadan sunulan bu bonus, bahis deneyiminizi katlamak için harika bir fırsattır. Deneme Bonusu veren siteler arasında dikkat çeken bu teklif, yeni kullanıcılar için büyük avantaj sağlar.</p>
     <a class="reference-link" href="https://cutt.ly/frqiVTb5" target="_blank">🌟 TIKLA VE BONUS AL</a> 
 </div>
+<h2>Reklam ve İletişim</h2>
+<p>Sizde Sitenizi Burada Görmek İstiyorsanız İletişim Telegram : <a href="https://t.me/sinangyf">@sinangyf</a></p>
